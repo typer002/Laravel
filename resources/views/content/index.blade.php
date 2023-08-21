@@ -16,7 +16,7 @@
         <thead>
             <tr>
                 <th>ID</th>
-                <th>Topic</th>
+                <th>Topics</th>
                 <th>Tags</th>
                 <th>Links</th>
                 <th>Create Date</th>
